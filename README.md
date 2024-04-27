@@ -1,6 +1,6 @@
 # task_8000
 
-A new Flutter project.
+Login and signup ui with Firebase. 
 
 ## Getting Started
 
